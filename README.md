@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Shortest Path
 |  |
 | ------- |
