@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0169-majority-element) |
 | [1122-relative-sort-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1051-height-checker) |
@@ -743,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -778,4 +783,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1122-relative-sort-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
