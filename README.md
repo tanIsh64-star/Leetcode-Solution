@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0130-surrounded-regions) |
+| [0566-reshape-the-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0068-text-justification) |
+| [0566-reshape-the-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
