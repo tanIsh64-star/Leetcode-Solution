@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0566-reshape-the-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
