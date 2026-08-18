@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Monotonic Stack
 |  |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
