@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1122-relative-sort-array) |
+| [1260-shift-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
