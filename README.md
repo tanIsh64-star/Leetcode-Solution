@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1340-jump-game-v) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2540-minimum-common-value) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [1386-cinema-seat-allocation](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [1386-cinema-seat-allocation](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Monotonic Stack
 |  |
